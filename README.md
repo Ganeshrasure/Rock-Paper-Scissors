@@ -32,7 +32,7 @@ This is a classic Rock Paper Scissors game implemented using HTML, CSS, and Java
 
 ## Folder Structure
 
-rock-paper-scissors/
+rock-paper-scissors/<br/>
 │
 ├── index.html # Main HTML file for the game <br/>
 ├── styles.css # CSS file for styling <br/>
