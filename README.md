@@ -34,6 +34,6 @@ This is a classic Rock Paper Scissors game implemented using HTML, CSS, and Java
 
 rock-paper-scissors/
 │
-├── index.html # Main HTML file for the game
-├── styles.css # CSS file for styling
+├── index.html # Main HTML file for the game <br/>
+├── styles.css # CSS file for styling <br/>
 └── script.js # JavaScript file for game logic and interactivity
